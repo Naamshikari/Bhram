@@ -7,10 +7,10 @@ If anything below is missing from a prompt, the face and look will drift.
 
 - **Image model: Nano Banana 2 only.** Do not use Nano Banana Pro. It changed the face and pulled the mask down.
 - **Always attach the user's own reference photos** (the 6 studio and street photos) with every generation. Never generate from text alone.
-- **Start from the approved Shikari v2 portrait** (Nano Banana 2, no headphones), the one the user confirmed looks like him.
-- **Do not change the face.** Keep his own hair, eyebrows and eyes exactly as they are in the reference photos.
-- **The mask is always up,** covering the nose and mouth. It is his real plain black mask. Never use a cloth or patterned mask, and never pull it down.
-- **He never wears headphones.**
+- **Start from the approved Shikari v2 portrait** (Nano Banana 2, no headphones), the one the user confirmed looks like them.
+- **Do not change the face.** Keep their own hair, eyebrows and eyes exactly as they are in the reference photos.
+- **The mask is always up,** covering the nose and mouth. It is the user's real plain black mask. Never use a cloth or patterned mask, and never pull it down.
+- **No headphones, ever.**
 
 ## Face and accessories (every shot)
 
@@ -20,10 +20,10 @@ If anything below is missing from a prompt, the face and look will drift.
 | Eyebrows and eyes | Same as the reference photos, not restyled |
 | Mask | Plain black, pulled up over the nose |
 | Ears | VVS studs in both ears |
-| Neck | Iced Cuban link chain, plus his other chains |
+| Neck | Iced Cuban link chain, plus the other chains |
 | Wrist | Skeleton watch |
 
-## Wardrobe (only his real clothes, as in the reference photos)
+## Wardrobe (only the real clothes, as in the reference photos)
 
 1. **Black crewneck**, baggy black cargos, wheat/yellow sneakers
 2. **Black Nike hoodie** (the web-print hoodie), with the crossbody bag
